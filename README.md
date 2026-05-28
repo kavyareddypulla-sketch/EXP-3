@@ -49,7 +49,10 @@ Tabulation:1
 <img width="1322" height="524" alt="image" src="https://github.com/user-attachments/assets/5e7b3aa1-6df1-49b2-a2db-067fe8834f93" />
 
 
-Cross connection: CIRCUIT DIAGRAM:
+Cross connection: 
+CIRCUIT DIAGRAM:
+
+<img width="1586" height="1569" alt="image" src="https://github.com/user-attachments/assets/ba9f1fb2-65b6-465e-a1e5-888115b1fe1a" />
 
 
 Tabulation:2
